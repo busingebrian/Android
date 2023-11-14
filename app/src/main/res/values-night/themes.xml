@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Android" parent="Base.Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- primary brand color -->
+        <item name="colorPrimary">@color/Dark_Purple</item>
+        <item name="colorPrimaryVariant">@color/Lavish</item>
+        <item name="colorOnPrimary">@color/creamy</item>
+        <!--  secondary brand color    -->
+        <item name="colorSecondary">@color/my_light_primary</item>
+        <item name="colorSecondaryVariant">@color/my_light_primary</item>
+        <item name="colorOnSecondary">@color/my_light_primary</item>
+
+        <!--   status bar color     -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+    <style name="customized" parent="Theme.MaterialComponents.DayNight.NoActionBar" >
+        <!-- primary brand color -->
+        <item name="colorPrimary">@color/Dark_Purple</item>
+        <item name="colorPrimaryVariant">@color/Lavish</item>
+        <item name="colorOnPrimary">@color/creamy</item>
+        <!--  secondary brand color    -->
+        <item name="colorSecondary">@color/Haute_pink</item>
+        <item name="colorSecondaryVariant">@color/Mate</item>
+        <item name="colorOnSecondary">@color/my_light_primary</item>
+
+        <!--   status bar color     -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+    </style>
+</resources>
