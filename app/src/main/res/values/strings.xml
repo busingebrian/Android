@@ -2,4 +2,9 @@
     <string name="app_name">Android</string>
     <string name="edit_text_hint">Please enter your name</string>
     <string name="button">Button</string>
+    <string name="menu_item_1">item 1</string>
+    <string name="menu_item_2">item 2</string>
+    <string name="menu_sub_item_1">item 1</string>
+    <string name="menu_sub_item_2">item 2</string>
+    <string name="menu_item_3">Item 3</string>
 </resources>
