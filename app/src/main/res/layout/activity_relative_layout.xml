@@ -28,7 +28,7 @@
         android:id="@+id/relative_layout_signup"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/signup"
+        android:text="@string/signUp_Constraint_layout"
         android:layout_marginVertical="50dp"
         android:layout_toStartOf="@id/relative_layout_login"
         app:layout_constraintBottom_toBottomOf="parent"

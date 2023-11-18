@@ -14,6 +14,8 @@
     <string name="Delete">Delete</string>
     <string name="login">login</string>
     <string name="next">next</string>
+    <string name="next_scrollView">next SV</string>
+    <string name="signUp_Constraint_layout">Signup CL</string>
     <string name="welcome_to_relative_layout">Welcome to Relative layout</string>
     <string name="signup">signup</string>
     <string name="scroll_view">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci amet aspernatur atque consequatur corporis dolores earum, error excepturi facilis fugit id incidunt laudantium, mollitia neque nobis non nostrum odit officia pariatur placeat porro praesentium quia reprehenderit sunt, tempora tempore temporibus voluptate.
@@ -40,4 +42,7 @@
         Ad autem eos facilis neque perferendis quisquam unde veniam Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci amet aspernatur atque consequatur corporis dolores earum, error excepturi facilis fugit id incidunt laudantium, mollitia neque nobis non nostrum odit officia pariatur placeat porro praesentium quia reprehenderit sunt, tempora tempore temporibus voluptate.
         Ad autem eos facilis neque perferendis quisquam unde veniam Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci amet aspernatur atque consequatur corporis dolores earum, error excepturi facilis fugit id incidunt laudantium, mollitia neque nobis non nostrum odit officia pariatur placeat porro praesentium quia reprehenderit sunt, tempora tempore temporibus voluptate.
         Ad autem eos facilis neque perferendis quisquam unde veniam</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="button_3">button 3</string>
 </resources>
