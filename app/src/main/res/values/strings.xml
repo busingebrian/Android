@@ -10,4 +10,7 @@
     <string name="welcome_to_the_third_activity">Welcome to the third Activity</string>
     <string name="next_activity">Next Activity</string>
     <string name="proceed_to_the_third_activity">Proceed to the third Activity</string>
+    <string name="enter">Enter</string>
+    <string name="Delete">Delete</string>
+    <string name="login">login</string>
 </resources>
