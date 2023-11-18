@@ -4,21 +4,30 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SecondActivity">
+    tools:context=".ThirdActivity">
 
     <include layout="@layout/toolbar"
         android:id="@+id/toolbar"/>
 
-    <Button
-        android:id="@+id/next_button"
+    <TextView
+        android:id="@+id/text_view_third"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/proceed_to_the_third_activity"
-        android:textAlignment="center"
-        android:textSize="20sp"
+        android:text="@string/welcome_to_the_third_activity"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.499"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.316" />
+
+    <Button
+        android:id="@+id/button_third"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/next_activity"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_view_third"
+        app:layout_constraintVertical_bias="0.298" />
 </androidx.constraintlayout.widget.ConstraintLayout>

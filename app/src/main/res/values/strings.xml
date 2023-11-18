@@ -7,4 +7,7 @@
     <string name="menu_sub_item_1">item 1</string>
     <string name="menu_sub_item_2">item 2</string>
     <string name="menu_item_3">Item 3</string>
+    <string name="welcome_to_the_third_activity">Welcome to the third Activity</string>
+    <string name="next_activity">Next Activity</string>
+    <string name="proceed_to_the_third_activity">Proceed to the third Activity</string>
 </resources>

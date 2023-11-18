@@ -30,10 +30,10 @@
 
     </style>
 
-    <style name="myTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+    <style name="myTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
         <!-- primary brand color -->
         <item name="colorPrimary">@color/pink_orange</item>
-        <item name="colorPrimaryVariant">@color/grey</item>
+        <item name="colorPrimaryVariant">@color/Lavish</item>
         <item name="colorOnPrimary">@color/creamy</item>
         <!--  secondary brand color    -->
         <item name="colorSecondary">@color/grey</item>
@@ -41,7 +41,7 @@
         <item name="colorOnSecondary">@color/correct</item>
 
         <!--   status bar color     -->
-        <item name="android:statusBarColor">@color/incorrect</item>
+        <item name="android:statusBarColor">@color/Lavish</item>
 
     </style>
 
