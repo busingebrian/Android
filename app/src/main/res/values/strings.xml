@@ -13,4 +13,7 @@
     <string name="enter">Enter</string>
     <string name="Delete">Delete</string>
     <string name="login">login</string>
+    <string name="next">next</string>
+    <string name="welcome_to_relative_layout">Welcome to Relative layout</string>
+    <string name="signup">signup</string>
 </resources>

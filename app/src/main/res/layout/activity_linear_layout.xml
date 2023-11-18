@@ -4,9 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ThirdActivity"
+    tools:context=".LinearLayoutActivity"
     android:orientation="horizontal"
-    android:gravity="center_vertical">
+    android:gravity="center_vertical|center">
 
     <Button
         android:text="@string/enter"
@@ -20,6 +20,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/login"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/next"
+        android:id="@+id/next_button_linear"/>
 
 
 </androidx.appcompat.widget.LinearLayoutCompat>

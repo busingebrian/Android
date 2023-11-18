@@ -12,11 +12,12 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
         buttonGoTo = findViewById(R.id.button_go_to)
         nameTextView = findViewById(R.id.nameTextView)
 
         buttonGoTo.setOnClickListener {
-            Intent(this@MainActivity, SecondActivity::class.java).also {
+            Intent(this@MainActivity, MenuAndToolBarActivity::class.java).also {
                 startActivity(it)
             }
         }
